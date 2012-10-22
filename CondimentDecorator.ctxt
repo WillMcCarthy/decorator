@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=beverage
+comment0.target=CondimentDecorator(com.hfdp.decorator.decorator.Beverage)
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment2.params=
+comment2.target=com.hfdp.decorator.decorator.Beverage\ getDecorated()
+numComments=3
